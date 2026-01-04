@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-The Digital Agronomist is an AI-powered assistant that helps farmers identify crop diseases n staple crops (bananas, maize, beans, soja) from smartphone photos and receive farming advice through a natural-language chatbot. It combines image recognition and conversational AI to support better crop health management and decision-making.
+The Digital Agronomist is an AI-powered assistant that helps farmers identify crop diseases in staple crops (cassava, bananas, maize, beans, soybean, peas) from smartphone photos, and receive farming advice through a natural-language chatbot. It combines image recognition and conversational AI to support better crop health management and decision-making.
 
 
 ## Background
