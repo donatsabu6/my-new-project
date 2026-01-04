@@ -1,4 +1,4 @@
-# The Digital Agronomist: A Multimodal AI Assistant for Crop Disease Detection and Farmer Consultation
+# The Digital Agronomist: AI-based Crop Disease Detection & Consultation
 
 Final project for the Building AI course
 
